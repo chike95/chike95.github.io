@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.4aTu-Nia.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"work/logs/sxt/index.md","filePath":"work/logs/sxt/index.md"}'),s={name:"work/logs/sxt/index.md"};function r(a,n,c,d,i,p){return o(),t("div")}const x=e(s,[["render",r]]);export{l as __pageData,x as default};

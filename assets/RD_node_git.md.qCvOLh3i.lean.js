@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a4 as p}from"./chunks/framework.4aTu-Nia.js";const m=JSON.parse('{"title":"Git","description":"","frontmatter":{},"headers":[],"relativePath":"RD/node/git.md","filePath":"RD/node/git.md"}'),r={name:"RD/node/git.md"},o=p("",15),i=[o];function n(s,c,_,d,l,f){return a(),e("div",null,i)}const u=t(r,[["render",n]]);export{m as __pageData,u as default};

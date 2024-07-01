@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a4 as t}from"./chunks/framework.4aTu-Nia.js";const m=JSON.parse('{"title":"登录","description":"","frontmatter":{},"headers":[],"relativePath":"FE/others/login.md","filePath":"FE/others/login.md"}'),s={name:"FE/others/login.md"},r=t("",6),i=[r];function n(c,h,l,d,_,k){return o(),a("div",null,i)}const f=e(s,[["render",n]]);export{m as __pageData,f as default};

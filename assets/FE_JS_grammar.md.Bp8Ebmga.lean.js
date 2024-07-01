@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,a4 as t}from"./chunks/framework.4aTu-Nia.js";const f=JSON.parse('{"title":"语法","description":"","frontmatter":{},"headers":[],"relativePath":"FE/JS/grammar.md","filePath":"FE/JS/grammar.md"}'),h={name:"FE/JS/grammar.md"},i=t("",42),o=[i];function l(n,s,d,c,p,u){return r(),e("div",null,o)}const q=a(h,[["render",l]]);export{f as __pageData,q as default};

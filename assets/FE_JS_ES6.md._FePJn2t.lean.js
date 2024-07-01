@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.4aTu-Nia.js";const o=JSON.parse('{"title":"ES 6-13","description":"","frontmatter":{},"headers":[],"relativePath":"FE/JS/ES6.md","filePath":"FE/JS/ES6.md"}'),h={name:"FE/JS/ES6.md"},l=n("",76),k=[l];function p(t,e,E,r,d,g){return a(),i("div",null,k)}const F=s(h,[["render",p]]);export{o as __pageData,F as default};

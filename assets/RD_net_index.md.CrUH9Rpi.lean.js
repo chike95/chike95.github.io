@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a4 as r}from"./chunks/framework.4aTu-Nia.js";const b=JSON.parse('{"title":"计算机网络","description":"","frontmatter":{},"headers":[],"relativePath":"RD/net/index.md","filePath":"RD/net/index.md"}'),o={name:"RD/net/index.md"},i=r("",7),n=[i];function s(l,d,c,_,h,p){return t(),a("div",null,n)}const u=e(o,[["render",s]]);export{b as __pageData,u as default};
